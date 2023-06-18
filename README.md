@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+Token contract on Sepolia Testnet 0x7f6E62F4fDfE3f4479678aae432fEFaE922a6F2c
